@@ -40,4 +40,4 @@
 /node_modules
 
 .idea/
-db/seeds/development/
+db/seeds/development/*.rb
